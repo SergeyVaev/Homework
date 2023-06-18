@@ -1,4 +1,4 @@
-public class Task2 {
+public class Task1 {
     /**
      * @param args
      */
